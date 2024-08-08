@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Logo from "./Logo";
-import NavLinks from "./navLinks";
+import NavLinks from "./NavLinks";
 import { FaBars } from "react-icons/fa6";
 
 const Navbar = () => {
