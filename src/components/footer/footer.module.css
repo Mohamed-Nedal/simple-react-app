@@ -1,0 +1,6 @@
+.heading {
+  @apply text-2xl uppercase font-bold tracking-wide mb-4;
+}
+.desc {
+  @apply text-base leading-6;
+}
